@@ -75,6 +75,8 @@ class MainClass
 
                 Console.WriteLine("\n");
 
+                System.Threading.Thread.Sleep(5000);
+
                 Console.WriteLine($"Here's your bill! Total Price: ${totalBill.ToString("0.00")}");
                 
             }
