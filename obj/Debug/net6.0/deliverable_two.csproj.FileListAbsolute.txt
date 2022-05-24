@@ -1,0 +1,15 @@
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\bin\Debug\net6.0\deliverable_two.exe
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\bin\Debug\net6.0\deliverable_two.deps.json
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\bin\Debug\net6.0\deliverable_two.runtimeconfig.json
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\bin\Debug\net6.0\deliverable_two.dll
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\bin\Debug\net6.0\deliverable_two.pdb
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\obj\Debug\net6.0\deliverable_two.csproj.AssemblyReference.cache
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\obj\Debug\net6.0\deliverable_two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\obj\Debug\net6.0\deliverable_two.AssemblyInfoInputs.cache
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\obj\Debug\net6.0\deliverable_two.AssemblyInfo.cs
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\obj\Debug\net6.0\deliverable_two.csproj.CoreCompileInputs.cache
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\obj\Debug\net6.0\deliverable_two.dll
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\obj\Debug\net6.0\refint\deliverable_two.dll
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\obj\Debug\net6.0\deliverable_two.pdb
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\obj\Debug\net6.0\deliverable_two.genruntimeconfig.cache
+C:\Users\Pttrs\Documents\prework\deliverable_two\deliverable_two\obj\Debug\net6.0\ref\deliverable_two.dll
