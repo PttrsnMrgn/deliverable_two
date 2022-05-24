@@ -29,6 +29,12 @@ class MainClass
         {
             Console.WriteLine("Im very sorry we aren't staffed to serve tables larger than 6. Have a great day!");
 
+            Console.WriteLine("\n");
+
+            Console.WriteLine("Press any key to exit.");
+
+            Console.ReadLine();
+
             Environment.Exit(0);
 
         }
