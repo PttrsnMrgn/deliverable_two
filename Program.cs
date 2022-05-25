@@ -31,7 +31,7 @@ class MainClass
 
             Console.WriteLine("\n");
 
-            Console.WriteLine("Press any key to exit.");
+            Console.WriteLine("Press enter to exit.");
 
             Console.ReadLine();
 
